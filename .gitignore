@@ -1,0 +1,6 @@
+# 原始 NetCDF（約 46 MB）與重建時產生的中間檔不納入版本控制
+animations/enso/data/*.nc
+animations/enso/data/oisst_1deg_u8.b64
+animations/enso/data/land_rings.json
+.DS_Store
+__pycache__/
